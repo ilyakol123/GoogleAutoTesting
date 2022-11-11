@@ -24,6 +24,5 @@ public class Main {
                 .until(ExpectedConditions.elementToBeClickable(By.className("ruhjFe")));
         wiki.click();
         driver.quit();
-        //new master
     }
 }
