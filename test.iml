@@ -11,5 +11,6 @@
     <orderEntry type="library" name="webjars.npm.selenium.webdriver" level="project" />
     <orderEntry type="library" name="ru.stqa.selenium.implicitly.waiting.webdriver" level="project" />
     <orderEntry type="library" name="seleniumhq.selenium.support" level="project" />
+    <orderEntry type="library" name="junit" level="project" />
   </component>
 </module>
